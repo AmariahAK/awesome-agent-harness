@@ -1,7 +1,7 @@
 catalog:
   title_en: Awesome Agent Harness
   title_zh: Awesome Agent Harness
-  last_verified: '2026-08-31'
+  last_verified: '2026-09-14'
   description_en: Curated implementation-first list for agent harness engineering.
   description_zh: 面向 Agent Harness Engineering 的工程实践清单。
 categories:
@@ -856,6 +856,21 @@ entries:
   updated_at: '2026-08-28'
   license: MIT
   why_included: Official JavaScript harness implementation with explicit batteries-included control-loop primitives.
+- name: Reef
+  repo_url: https://github.com/Human-Agent-Society/reef
+  category: Harness Architecture & Orchestration
+  summary_en: Continual learning infrastructure connecting agent inference, feedback, evaluation, and versioned delivery to
+    improve model weights, prompts, rules, and skills.
+  summary_zh: 持续学习基础设施，串联代理推理、反馈、评估与版本化发布，用于改进模型权重、提示词、规则和技能。
+  tags:
+  - continual-learning
+  - harness-optimization
+  - versioning
+  stars_snapshot: 1442
+  updated_at: '2026-09-14'
+  license: Apache-2.0
+  why_included: README documents feedback-driven harness evolution with candidate evaluation and versioned publication of
+    prompts, rules, and skills, alongside model weight training.
 - name: oh-my-agent
   repo_url: https://github.com/first-fluke/oh-my-agent
   category: Harness Architecture & Orchestration

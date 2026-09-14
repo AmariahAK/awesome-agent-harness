@@ -2,11 +2,11 @@
 
 一个面向 **Agent Harness Engineering** 的工程实践清单，优先收录可直接落地的 GitHub 项目。
 
-- 当前条目数: **367**
-- GitHub 条目: **333 (90.7%)**
-- 项目分类 GitHub 占比（不含阅读类）: **328/328 (100.0%)**
+- 当前条目数: **368**
+- GitHub 条目: **334 (90.8%)**
+- 项目分类 GitHub 占比（不含阅读类）: **329/329 (100.0%)**
 - 分类数量: **9**
-- 最近核对日期: **2026-08-31**
+- 最近核对日期: **2026-09-14**
 - 语言: [English](./README.md) | [中文](./README_zh.md)
 
 <a id="featured-harness-blogs"></a>
@@ -51,7 +51,7 @@
 
 | 分类 | 条目数 |
 | --- | ---: |
-| Harness Architecture & Orchestration | 64 |
+| Harness Architecture & Orchestration | 65 |
 | Context & Working-State Engineering | 29 |
 | Execution Substrates & Sandboxing | 27 |
 | Protocols, Tool Interfaces & Agent Contracts | 42 |
@@ -130,6 +130,7 @@
 | tRPC-Agent-Go | [GitHub](https://github.com/trpc-group/trpc-agent-go) | [![star](https://img.shields.io/badge/star-1751-f4b400?style=flat-square)](https://github.com/trpc-group/trpc-agent-go) | go, graph-workflows, observability | 面向生产代理系统的 Go 框架，提供图工作流、工具、记忆、评测、协议集成与 OpenTelemetry 可观测性。 |
 | Scion | [GitHub](https://github.com/GoogleCloudPlatform/scion) | [![star](https://img.shields.io/badge/star-1683-f4b400?style=flat-square)](https://github.com/GoogleCloudPlatform/scion) | multi-agent, containers, orchestration | 实验性多代理编排测试平台，可在容器、git worktree 与远程运行时中隔离运行各类 agent harness。 |
 | deepagentsjs | [GitHub](https://github.com/langchain-ai/deepagentsjs) | [![star](https://img.shields.io/badge/star-1518-f4b400?style=flat-square)](https://github.com/langchain-ai/deepagentsjs) | typescript, langgraph, subagents | 基于 TypeScript 的 agent harness，内置规划、文件系统工具、子代理与 LangGraph 原生运行时能力。 |
+| Reef | [GitHub](https://github.com/Human-Agent-Society/reef) | [![star](https://img.shields.io/badge/star-1442-f4b400?style=flat-square)](https://github.com/Human-Agent-Society/reef) | continual-learning, harness-optimization, versioning | 持续学习基础设施，串联代理推理、反馈、评估与版本化发布，用于改进模型权重、提示词、规则和技能。 |
 | oh-my-agent | [GitHub](https://github.com/first-fluke/oh-my-agent) | [![star](https://img.shields.io/badge/star-1256-f4b400?style=flat-square)](https://github.com/first-fluke/oh-my-agent) | multi-agent, skills, cross-runtime | 可移植多代理 harness，可将共享代理、技能、工作流与规则投射到多个编码代理运行时。 |
 | LiteLLM Agent Control Plane | [GitHub](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) | [![star](https://img.shields.io/badge/star-1248-f4b400?style=flat-square)](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) | control-plane, sessions, runtime | 面向 OpenCode、Hermes、Claude Managed Agents、Cursor Agents API、DeepAgents 与 OpenClaw 等运行时的一体化代理控制平面。 |
 | Chorus | [GitHub](https://github.com/Chorus-AIDLC/Chorus) | [![star](https://img.shields.io/badge/star-1151-f4b400?style=flat-square)](https://github.com/Chorus-AIDLC/Chorus) | ai-dlc, permissions, task-state | 面向人机协作的 harness，管理会话生命周期、任务状态、子代理编排、可观测性与故障恢复。 |

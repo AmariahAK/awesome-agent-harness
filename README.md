@@ -2,11 +2,11 @@
 
 A curated, implementation-first list of **agent harness engineering** resources, with GitHub projects as the primary focus.
 
-- Total entries: **367**
-- GitHub entries: **333 (90.7%)**
-- GitHub in project categories (excluding readings): **328/328 (100.0%)**
+- Total entries: **368**
+- GitHub entries: **334 (90.8%)**
+- GitHub in project categories (excluding readings): **329/329 (100.0%)**
 - Categories: **9**
-- Last verified: **2026-08-31**
+- Last verified: **2026-09-14**
 - Language: [English](./README.md) | [中文](./README_zh.md)
 
 <a id="featured-harness-blogs"></a>
@@ -51,7 +51,7 @@ A curated, implementation-first list of **agent harness engineering** resources,
 
 | Category | Entries |
 | --- | ---: |
-| Harness Architecture & Orchestration | 64 |
+| Harness Architecture & Orchestration | 65 |
 | Context & Working-State Engineering | 29 |
 | Execution Substrates & Sandboxing | 27 |
 | Protocols, Tool Interfaces & Agent Contracts | 42 |
@@ -130,6 +130,7 @@ Notes:
 | tRPC-Agent-Go | [GitHub](https://github.com/trpc-group/trpc-agent-go) | [![star](https://img.shields.io/badge/star-1751-f4b400?style=flat-square)](https://github.com/trpc-group/trpc-agent-go) | go, graph-workflows, observability | Go framework for production agent systems with graph workflows, tools, memory, evaluation, protocols, and OpenTelemetry observability. |
 | Scion | [GitHub](https://github.com/GoogleCloudPlatform/scion) | [![star](https://img.shields.io/badge/star-1683-f4b400?style=flat-square)](https://github.com/GoogleCloudPlatform/scion) | multi-agent, containers, orchestration | Experimental multi-agent orchestration testbed that runs isolated agent harnesses in containers, worktrees, and remote runtimes. |
 | deepagentsjs | [GitHub](https://github.com/langchain-ai/deepagentsjs) | [![star](https://img.shields.io/badge/star-1518-f4b400?style=flat-square)](https://github.com/langchain-ai/deepagentsjs) | typescript, langgraph, subagents | TypeScript agent harness with built-in planning, filesystem tools, subagents, and LangGraph-native runtime hooks. |
+| Reef | [GitHub](https://github.com/Human-Agent-Society/reef) | [![star](https://img.shields.io/badge/star-1442-f4b400?style=flat-square)](https://github.com/Human-Agent-Society/reef) | continual-learning, harness-optimization, versioning | Continual learning infrastructure connecting agent inference, feedback, evaluation, and versioned delivery to improve model weights, prompts, rules, and skills. |
 | oh-my-agent | [GitHub](https://github.com/first-fluke/oh-my-agent) | [![star](https://img.shields.io/badge/star-1256-f4b400?style=flat-square)](https://github.com/first-fluke/oh-my-agent) | multi-agent, skills, cross-runtime | Portable multi-agent harness that projects shared agents, skills, workflows, and rules into multiple coding-agent runtimes. |
 | LiteLLM Agent Control Plane | [GitHub](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) | [![star](https://img.shields.io/badge/star-1248-f4b400?style=flat-square)](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) | control-plane, sessions, runtime | Agent control plane that provides one API and UI across OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAgents, and OpenClaw runtimes. |
 | Chorus | [GitHub](https://github.com/Chorus-AIDLC/Chorus) | [![star](https://img.shields.io/badge/star-1151-f4b400?style=flat-square)](https://github.com/Chorus-AIDLC/Chorus) | ai-dlc, permissions, task-state | AI-human collaboration harness for session lifecycle, task state, sub-agent orchestration, observability, and recovery. |
